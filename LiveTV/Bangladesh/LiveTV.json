@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-17 14:26:21",
+  "date": "2025-07-17 22:24:43",
   "channels": {
     "BANGLA": [
       {
@@ -359,14 +359,14 @@
         "logo": "http://dds.oncast.me/img/logo/sp1.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/109987.ts"
+        "url": "http://178.217.72.66:8080/Eurosport_HD/video.m3u8"
       },
       {
         "name": "Live Sports-2",
         "logo": "http://dds.oncast.me/img/logo/sp2.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/346373.ts"
+        "url": "https://7pal.short.gy/tntspts2"
       },
       {
         "name": "Live Sports-3",
@@ -604,28 +604,21 @@
         "logo": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts"
-      },
-      {
-        "name": "Sky Sports Cricket [2]",
-        "logo": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "http://astv.life:8080/anil@123/anil@123/208260"
       },
       {
-        "name": "Sky Sports Main Event",
+        "name": "Sky Sports Action",
         "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=IQ6wqqjUsfKOkIMvqftiuw&expires=1751203351"
+        "url": "http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8"
       },
       {
         "name": "Sky Sports Football",
         "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/346241.ts"
+        "url": "https://7pal.short.gy/ssportsfb"
       },
       {
         "name": "Super Sport Cricket",
@@ -947,6 +940,20 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://bd.yflix.top/live.php?segment=3a4c9ee6063b7da5c97744ecdf4c9c91a40773a1fc2c336f570935eeab8b5060ffa1cd5bffdd8400e21b40733b49ab2aecb1de7a7d5bee746923af7dbfca0e3d89db025f14687710669fe641042ecc40817d007c204386f1dd166bb41fb7188241706ed38e180bb232138346e013ae05ce6aa195ccf57c42356feb1c44c3145bd0f567b6c1cb7cefc04089326cfdf4fd01576910cc7afe6b8d44eec74b81926df17525b2e9ae21c15889fbe7b12a644b3006b3728d7e094bc960722b1c0ca843"
+      },
+      {
+        "name": "Kid Screation",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8"
+      },
+      {
+        "name": "Nick Jr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8"
       },
       {
         "name": "Sony YAY",

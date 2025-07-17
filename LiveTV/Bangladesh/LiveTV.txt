@@ -1771,6 +1771,16 @@ URL: https://bd.yflix.top/live.php?segment=3a4c9ee6063b7da5c97744ecdf4c9c91a4077
 Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Kid Screation
+URL: http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Nick Jr
+URL: http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Sony YAY
 URL: http://xott.live:8080/17871787/17871787/314753
 Logo: https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png
@@ -2344,12 +2354,12 @@ Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-1
-URL: http://xtv.ooo:8080/live/03353290992/03353290992/109987.ts
+URL: http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 Logo: http://dds.oncast.me/img/logo/sp1.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-2
-URL: http://xtv.ooo:8080/live/03353290992/03353290992/346373.ts
+URL: https://7pal.short.gy/tntspts2
 Logo: http://dds.oncast.me/img/logo/sp2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2519,22 +2529,17 @@ Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sky Sports Cricket
-URL: http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts
-Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sky Sports Cricket [2]
 URL: http://astv.life:8080/anil@123/anil@123/208260
 Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Sky Sports Main Event
-URL: https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=IQ6wqqjUsfKOkIMvqftiuw&expires=1751203351
+Name: Sky Sports Action
+URL: http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sky Sports Football
-URL: http://xtv.ooo:8080/live/03353290992/03353290992/346241.ts
+URL: https://7pal.short.gy/ssportsfb
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
