@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-23 14:28:19",
+  "date": "2025-07-23 22:28:00",
   "channels": {
     "BANGLA": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.ts.m3u8"
+        "url": "https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Ekattor TV",
@@ -401,7 +401,7 @@
         "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/167575.ts"
+        "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155968&extension=ts"
       },
       {
         "name": "Star Sports 1-[2]",
@@ -422,21 +422,21 @@
         "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/109988.ts"
+        "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8"
       },
       {
         "name": "Star Sports 2",
         "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/167576.ts"
+        "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155966&extension=ts"
       },
       {
         "name": "Star Sports 3",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/167577.ts"
+        "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155967&extension=ts"
       },
       {
         "name": "Star Sports Select 1",
@@ -1451,7 +1451,7 @@
         "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
         "group": "Hindi",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/66177.ts"
+        "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155969&extension=ts"
       },
       {
         "name": "Star Gold-2 HD",
@@ -1529,6 +1529,13 @@
         "group": "Hindi",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "http://xtv.ooo:8080/live/03353290992/03353290992/66189.ts"
+      },
+      {
+        "name": "South Station",
+        "logo": "https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",
+        "group": "Hindi",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://cdn-3.pishow.tv/live/1253/master.m3u8"
       }
     ],
     "English Movie": [
@@ -1551,7 +1558,7 @@
         "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
         "group": "English Movie",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/03353290992/03353290992/66213.ts"
+        "url": "http://nonamevos.com/live/4500/4500/106547.ts"
       },
       {
         "name": "Star Movies Select HD",
@@ -1565,7 +1572,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",
         "group": "English Movie",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://125hvt.ddns.net:21585/axn/index.m3u8"
+        "url": "http://212.102.60.231/HBO_2/index.m3u8"
       },
       {
         "name": "My Cinema",
@@ -2475,13 +2482,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
         "url": "http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts"
-      },
-      {
-        "name": "Star Sports 2 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8"
       },
       {
         "name": "Star Sports 1 Tamil HD",
