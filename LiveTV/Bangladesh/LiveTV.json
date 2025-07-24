@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-24 14:27:56",
+  "date": "2025-07-24 22:24:58",
   "channels": {
     "BANGLA": [
       {
@@ -2377,6 +2377,20 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8"
+      },
+      {
+        "name": "TSPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=?"
+      },
+      {
+        "name": "TSPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "TSPORTS",
